@@ -21,13 +21,12 @@ Unit Testing pada PHP dimudahkan menggunakan Composer dan PHPUnit.
 
 #### Opsi Download PPTX :
 * Melalui Git Clone
-* Melalui Online Link Dibawah Ini
-[PHP Unit Test Tutorial Bahasa Indonesia](https://oqxschools-my.sharepoint.com/:p:/g/personal/m_fauzan_idnoffice_com/EXjjwhWtOKpOgaQBPuFZ0f0BQLpl3sTrOorGMmKIv1fm3w?e=oAfHWK)
+* Melalui Online Link [PHP Unit Test Tutorial Bahasa Indonesia](https://oqxschools-my.sharepoint.com/:p:/g/personal/m_fauzan_idnoffice_com/EXjjwhWtOKpOgaQBPuFZ0f0BQLpl3sTrOorGMmKIv1fm3w?e=oAfHWK)
 
 ### Kontak Saya
 
-LinkedIn : [Muhammad Fauzan](https://www.linkedin.com/in/developer-fauzan/)
-Facebook : [Muhammad Fauzan](https://www.facebook.com/fauzandotjs/)
+* LinkedIn : [Muhammad Fauzan](https://www.linkedin.com/in/developer-fauzan/)
+* Facebook : [Muhammad Fauzan](https://www.facebook.com/fauzandotjs/)
 
 ### Donasi
 

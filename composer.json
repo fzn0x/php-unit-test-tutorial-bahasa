@@ -1,0 +1,18 @@
+{
+    "name": "user/unit-tests",
+    "authors": [
+        {
+            "name": "Muhammad Fauzan",
+            "email": "developerfauzan@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "autoload": {
+        "psr-4": {
+            "FauzanUnitTest\\": "src/"
+        }
+    }
+}
+

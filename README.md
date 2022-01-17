@@ -1,4 +1,4 @@
-## PHP Unit Test Tutorial with PPTX (Power Point)
+## PHP Unit Test Tutorial in Bahasa
 
 Tutorial ini dibuat untuk developer yang belum mengerti bagaimana melakukan unit testing menggunakan PHP.
 Unit Testing pada PHP dimudahkan menggunakan Composer dan PHPUnit.
@@ -28,12 +28,6 @@ Unit Testing pada PHP dimudahkan menggunakan Composer dan PHPUnit.
 * LinkedIn : [Muhammad Fauzan](https://www.linkedin.com/in/developer-fauzan/)
 * Facebook : [Muhammad Fauzan](https://www.facebook.com/fauzandotjs/)
 
-### Donasi
+### Lisensi
 
-Donasi untuk tutorial ini bisa dikirim ke OVO dibawah ini :
-
-![OVO](./OVO.jpg)
-
-### Penutup
-
-Terima kasih telah mengikuti tutorial kali ini.
+Tutorial ini menggunakan [lisensi MIT](./LICENSE.md)

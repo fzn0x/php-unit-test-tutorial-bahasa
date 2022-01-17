@@ -23,11 +23,6 @@ Unit Testing pada PHP dimudahkan menggunakan Composer dan PHPUnit.
 * Melalui Git Clone
 * Melalui Online Link [PHP Unit Test Tutorial Bahasa Indonesia](https://oqxschools-my.sharepoint.com/:p:/g/personal/m_fauzan_idnoffice_com/EXjjwhWtOKpOgaQBPuFZ0f0BQLpl3sTrOorGMmKIv1fm3w?e=oAfHWK)
 
-### Kontak Saya
-
-* LinkedIn : [Muhammad Fauzan](https://www.linkedin.com/in/developer-fauzan/)
-* Facebook : [Muhammad Fauzan](https://www.facebook.com/fauzandotjs/)
-
 ### Lisensi
 
 Tutorial ini menggunakan [lisensi MIT](./LICENSE.md)
